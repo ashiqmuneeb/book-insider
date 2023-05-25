@@ -1,0 +1,15 @@
+body
+{
+	background-color: lightgrey;
+    border:black groove;
+}
+h1{
+	color: red;
+	font font-family: fantasy;
+	text align-content: center;
+	text-shadow:2px 1px;
+}
+label{
+	font-style: italic;
+}
+
